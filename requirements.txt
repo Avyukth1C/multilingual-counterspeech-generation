@@ -1,0 +1,11 @@
+openai==0.28
+langdetect
+gradio
+transformers
+pandas 
+scikit-learn
+polyglot
+pyicu
+pycld2
+nltk 
+rouge-score
